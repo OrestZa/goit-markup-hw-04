@@ -431,6 +431,11 @@ img{
   border-color: #404BBF;
 }
 
+.customer-item:hover .customer-icon,
+.customer-icon:focus .customer-icon{
+	  fill: #404BBF
+}
+
 .customer-link:hover .customer-icon,
 .customer-link:focus .customer-icon{
   fill: #404BBF
